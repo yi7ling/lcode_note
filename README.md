@@ -4,3 +4,4 @@
 - [binary_search](https://github.com/yi7ling/lcode_note/blob/main/binary_search.md): 二分查找系列
 - [dynamic](https://github.com/yi7ling/lcode_note/blob/main/dynamic.md): 动态规划系列
 - [heapsort](https://github.com/yi7ling/lcode_note/blob/main/heapsort.md): 堆排序系列
+- [greedy](https://github.com/yi7ling/lcode_note/blob/main/greedy_al.md): 贪心算法
