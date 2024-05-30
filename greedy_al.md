@@ -5,4 +5,5 @@
 
 ## 题单
 - [1247.交换字符使得字符串相同](https://leetcode.cn/problems/minimum-swaps-to-make-strings-equal/description/)
-- 
+- [1218. 最长定差子序列](https://leetcode.cn/problems/longest-arithmetic-subsequence-of-given-difference/description/)
+  > 贪心与其他算法结合
