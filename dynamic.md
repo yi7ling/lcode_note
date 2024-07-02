@@ -18,3 +18,4 @@
 
 题单
 - [516. 最长回文子序列](https://leetcode.cn/problems/longest-palindromic-subsequence/description/)
+- [877. 石子游戏](https://leetcode.cn/problems/stone-game/description/)
