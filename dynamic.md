@@ -8,6 +8,9 @@
 > 3. 最大子数组和
 >    延申：最小子数组和，循环数组的最大子数组和
 
+题单
+- [1191. K 次串联后最大子数组之和 难度1748](https://leetcode.cn/problems/k-concatenation-maximum-sum/description/)
+
 ## 线性DP问题
 
 概念介绍
