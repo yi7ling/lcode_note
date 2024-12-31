@@ -11,6 +11,12 @@
 题单
 - [1191. K 次串联后最大子数组之和 难度1748](https://leetcode.cn/problems/k-concatenation-maximum-sum/description/)
 
+## 网格图（二维）DP问题
+
+主要题型
+> 1. 网格图中，计算从左上角到右下角的最大（小）路径和
+> 2. 
+
 ## 线性DP问题
 
 概念介绍
