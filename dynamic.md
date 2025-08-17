@@ -42,4 +42,4 @@
 - [877. 石子游戏](https://leetcode.cn/problems/stone-game/description/)
 - [1312. 让字符串成为回文串的最少插入次数](https://leetcode.cn/problems/minimum-insertion-steps-to-make-a-string-palindrome/description/)
 
-第三次提交
+修改第三次提交
